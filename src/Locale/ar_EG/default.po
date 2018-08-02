@@ -1,0 +1,278 @@
+msgid "Something went wrong please try again"
+msgstr "يوجد خطأ في العملية, من فضلك حاول مرة آخرى"
+
+msgid "Something went wrong, please contact with support"
+msgstr "يوجد خطأ في العملية, من فضلك تواصل مع الدعم الفني"
+
+
+msgid "Your mobile numer or password is incorrect"
+msgstr "هاتفك الجوال أو كلمة المرور غير صحيحة"
+
+msgid "Request data can not be empty, please contact with support"
+msgstr "بيانات الطلب لا يمكن ان تكون فارغة، من فضلك تواصل مع الدعم الفني"
+
+msgid "The user has been saved"
+msgstr "تم حفظ المستخدم"
+
+msgid "Please enter your verification code"
+msgstr "من فضلك ادخل كود التحقق"
+
+msgid "Password has been updated"
+msgstr "تم تحديث كلمة المرور"
+
+msgid "National ID is already exist"
+msgstr "رقم الهوية موجود من قبل"
+
+msgid "There is no result"
+msgstr "لا يوجد نتيجة"
+
+msgid "No data found"
+msgstr "لا يوجد نتيجة"
+
+msgid "Mobile number is already exist"
+msgstr "رقم الهاتف المحمول موجود من قبل"
+
+msgid "Your activation code is "
+msgstr "كود التفعيل الخاص بك هو"
+
+msgid "Account has been verified"
+msgstr "تم التحقق من الحساب"
+
+msgid "Verification code is invalid"
+msgstr "كود التحقق غير صحيح"
+
+msgid "Your account is already verified"
+msgstr "تم التحقق من حسابك من قبل"
+
+msgid "Verification code to reset your password "
+msgstr "كود التحقق لإسترجاع كلمة المرور "
+
+
+
+msgid "New order waiting for you to deliver it"
+msgstr "يوجد طلب جديد في انتظارك لتوصيله"
+
+msgid "Mobile number not exist"
+msgstr "رقم الجوال غير موجود"
+
+msgid "New delivery offer on your order"
+msgstr "يوجد عرض توصيل جديد على طلبك"
+
+msgid "Password can not be empty"
+msgstr "لا يمكن لكلمة المرور ان تكون فارغة"
+
+msgid "Your account must be confirm by your mobile number"
+msgstr "يجب تأكيد حسابك من خلال رقم هاتفك الجوال"
+
+msgid "Your account has been suspended"
+msgstr "تم تعليق حسابك"
+
+msgid "Your account data has been updated"
+msgstr "تم تحديث بيانات حسابك"
+
+msgid "Your account data has been updated"
+msgstr "تم تحديث بيانات حسابك"
+
+msgid "Client has canceled the order"
+msgstr "قام العميل بإلغاء الطلب"
+
+msgid "File extension is not valid"
+msgstr "صيغة الملف غير مدعومة"
+
+
+msgid "Client has accepted your offer"
+msgstr "قام العميل بقبول عرضك"
+
+msgid "Client has declined your offer"
+msgstr "قام العميل برفض عرضك"
+
+msgid "Captain has delivered the orde"
+msgstr "قام الكابتن بتوصيل الطلب"
+
+
+msgid "You have new message"
+msgstr "لديك رسالة جديدة"
+
+msgid "Email is not valid"
+msgstr "البريد الالكتروني غير صحيح"
+
+msgid "Image extension is not valid"
+msgstr "صيغة الصورة غير مدعومة"
+
+msgid "Docuemnts has been uploaded"
+msgstr "تم رفع الوثائق"
+
+msgid "Can not upload image"
+msgstr "لم يتمكن من رفع صورة"
+
+msgid "Notification status is required"
+msgstr "حالة التنبية مطلوبة"
+
+
+msgid "You are not authorized to do this action"
+msgstr "ليس لديك الصلاحية للقيام بهذه العملية"
+
+msgid "Captin has been approved"
+msgstr "تم قبول المندوب"
+
+msgid "Notification status has been updated"
+msgstr "تم تحديث حالة التنبيهات"
+
+msgid "User is already captain"
+msgstr "المستخدم هو مندوب بالفعل"
+
+msgid "Captain not found"
+msgstr "لا يوجة مندوب"
+
+msgid "No stores has been found"
+msgstr "لا توجد متاجر"
+
+msgid "The order has been created"
+msgstr "تم إنشاء الطلب"
+
+msgid "Order ID is not valid"
+msgstr "رقم الطلب غير صحيح"
+
+msgid "You are not authorized to do this action"
+msgstr "أنت غير مصرح لك القيام بهذا الإجراء"
+
+msgid "Order has been canceled"
+msgstr "تك إلغاء الطلب"
+
+msgid "Order has been canceled"
+msgstr "تك إلغاء الطلب"
+
+msgid "Your offer has been declined by the client"
+msgstr "تم رفض عرضك من قبل العميل"
+
+msgid "There is no new orders"
+msgstr "لا يوجد طلبات جديدة"
+
+msgid "Location has been update"
+msgstr "تم تحديث الموقع"
+
+msgid "Rating value must be between 1 and 5"
+msgstr "قيمة التقيم يجب ان تكون بيم 1 و 5"
+
+msgid "You can not cancel offer after 6 min passed"
+msgstr "لا يمكنك إلغاء الطلب بعد مرور 6 دقائق"
+
+msgid "You can not cancel order after invoice has been issued"
+msgstr "لا يمكنك إلغاء الطلب بعد إصدار الفاتورة"
+
+msgid "Km"
+msgstr "كيلو متر"
+
+msgid "Evalutee is not exist found"
+msgstr "المستخدم الذي سيتم تقيمة غير موةود"
+
+msgid "User has been rated"
+msgstr "تم تقييم المستخدم"
+
+msgid "You should issue an invoice to deliver the order"
+msgstr "يجب إصدار فاتورة لتسليم الطلب"
+
+msgid "You can not cancel order after delivered it"
+msgstr "لا يمكنك إلغاء الطلب بعد توصيلة"
+
+msgid "You should wait 1 min to be able to cancel your offer"
+msgstr "يجب الانتظار لمدة دقيقة واحدة حتى تتمكن من إلغاء العرض"
+
+
+msgid "You can not cancel the order after 6 min from accepting by our captain"
+msgstr "لا يمكنك إلغاء الطلب بعد 6 دقائق من قبوله من قبل مندوبنا"
+
+msgid "Offer has been accepted"
+msgstr "تم قبول العرض"
+
+msgid "You can not  declined the offer after accepting it"
+msgstr "لا يمكنك رفض العرض بعد قبوله"
+
+msgid "Invoice has been issued successfully"
+msgstr "تم إصدار الفاتورة بنجاح"
+
+msgid "Km"
+msgstr "كيلو متر"
+
+msgid "Order has been delivered"
+msgstr "تم توصيل الطلب"
+
+msgid "Offer has been canceled"
+msgstr "تم إلغاء العرض"
+
+msgid "Offer has been declined"
+msgstr "تم رفض العرض"
+
+msgid "Captain has canceled the offer"
+msgstr "قام المندوب بإلغاء العرض"
+
+msgid "Offer is no longer exist"
+msgstr "لم يعد العرض موجودا"
+
+msgid "Order not found"
+msgstr "لم يتم العثور على الطلب"
+
+msgid "No offers has been found"
+msgstr "لم يتم تقديم عروض لطلبك بعد"
+
+msgid "Order has been canceled by the client"
+msgstr "تم إلغاء الطلب من قبل العميل"
+
+msgid "Order has been taken by another captain"
+msgstr "تم أخذ الطلب من قبل طيار آخر"
+
+msgid "Order has been taken by a captain"
+msgstr "تم استلام الطلب من قبل مندوبنا"
+
+msgid "Delivery cost should be"
+msgstr "تكلفة التوصيل يجب ان تكون"
+
+msgid "Delivery cost should be between"
+msgstr "تكلفة التوصيل يجب ان تكون بين"
+
+msgid "SAR"
+msgstr "ريال"
+
+msgid "No new notifications"
+msgstr "لا يوجد إشعارات جديدة"
+
+
+msgid "User does not exist, please contact with support"
+msgstr "المستخدم غير موجود من فضلك تواصل مع الدعم الفني"
+
+msgid "New password can not be equal to the old password"
+msgstr "كلمة المرور الجديدة لا يمكن ان تكون مثل كلمة المرور القديمة"
+
+msgid "Purchases price Cost is required"
+msgstr "سعر المشتريات مطلوب"
+
+msgid "Password has been changed"
+msgstr "تم تغير كلمة المرور"
+
+msgid "New password field is required"
+msgstr "حقل كلمة المرور الجديدة مطلوب"
+
+msgid "Your current password is not correct"
+msgstr "كلمة المرور الحالية غير صحيحة"
+
+
+msgid "Your offer has been send to the client"
+msgstr "تم إرسال عرضك للعميل"
+
+msgid "Delivery Cost is required"
+msgstr "قيمة التوصيل مطلوبة"
+
+msgid "You can not accept more than one offer"
+msgstr "لا يمكنك قبول اكثر من عرض واحد"
+
+
+
+
+
+
+
+
+
+
+
+
